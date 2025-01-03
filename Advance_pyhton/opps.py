@@ -3,7 +3,7 @@
 class student:
     def __init__(self, name, grade, percentage):  # method 
         self.name = name      # attribute 
-        self.grade = grade    # attribute 
+        self.grade = grade   # attribute 
         self.percentage = percentage # attribute 
     
     def student_detail(self):
