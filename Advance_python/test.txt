@@ -1,0 +1,4 @@
+Helo this is text file 
+This is python tutorial 
+This is the advanced python 
+ 
